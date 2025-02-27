@@ -76,23 +76,23 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with anyone.
 
- *Thanks for using KHAN-MD 🚩* 
+ *Thanks for using WOKER-MD 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
-https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j
+https://whatsapp.com/channel/0029VaqdVpYGU3BTWmGp5Z2r
 
 Dont forget to fork the repo ⬇️
 
-https://github.com/JawadYTX/KHAN-AI
+Repo is now private 
 
 > *© Powered BY JawadTechX 🖤*`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "JawadTechX",
-thumbnailUrl: "https://files.catbox.moe/89xq3r.jpg",
+title: "WOKER-MD",
+thumbnailUrl: "https://cdn.ironman.my.id/i/vzry3x.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -106,7 +106,7 @@ renderLargerThumbnail: true
 
 > Do not share your session id with anyone.
 
- *Thanks for using KHAN-MD 🚩* 
+ *Thanks for using WOKER-MD 🚩* 
 
 > Join WhatsApp Channel :- ⤵️
  
